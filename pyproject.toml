@@ -1,0 +1,10 @@
+[project]
+name = "fb-del-callback"
+version = "0.1.0"
+description = "POC project for testing app deletion callback endpoint from Facebook"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "flask>=3.1.0",
+    "python-dotenv>=1.0.1",
+]
